@@ -7,14 +7,14 @@
 ## _A Beginner's Handbook to Using Glasp_
 
 ## Table of content
-### [Introduction](Introduction)
-### [What is Glasp?](What is Glasp)
-### [Why Glasp?](Why Glasp)
-### [How does Glasp work?](How does Glasp work?)
-### [Steps to Install Glasp](Steps to Install Glasp)
-### [Features of Glasp](Features of Glasp)
-### [Glasp vs. other Highlighting Tools](Glasp vs. other Highlighting Tools)
-### [Conclusion](Introduction)
+### Introduction 
+### What is Glasp?
+### Why Glasp?
+### How does Glasp work? 
+### Steps to Install Glasp 
+### Features of Glasp
+### Glasp vs. other Highlighting Tools 
+### Conclusion
 
 ## Introduction
 
@@ -26,7 +26,7 @@ With Glasp, you can highlight text in a document or webpage and categorize it by
 In this article, we will explain the steps of using Glasp and explain how it works. We'll also provide tips on how to optimize your highlighting experience and get the most out of this powerful tool. So, let's get started and see how Glasp can help you become a more efficient reader and note-taker!
 
 ### What is Glasp?
-[Glasp](https://glasp.co/) short for "Global Annotation Service for the Web," is a tool that allows users to highlight and annotate text on web pages.  Glasp was co-founded by Kazuki Nakayashiki. The web-based tool aims to create a platform where people can share information and learn from the experiences of others. The app was developed based on the idea that if everyone's brains were shared in a common repository like Dropbox, valuable information could be applied to activities that people believed in. Glasp is focused on leaving a legacy for future generations by making knowledge accessible and shareable.
+[Glasp](https://glasp.co/) short for "Global Annotation Service for the Web," is a tool that allows users to highlight and annotate text on web pages.  Glasp was co-founded by Kazuki . The web-based tool aims to create a platform where people can share information and learn from the experiences of others. The app was developed based on the idea that if everyone's brains were shared in a common repository like Dropbox, valuable information could be applied to activities that people believed in. Glasp is focused on leaving a legacy for future generations by making knowledge accessible and shareable.
 
 This tool is designed to enhance web browsing experience by allowing users to interact with web content in new and innovative ways. In this article, we will explain how Glasp works and how it can be used to improve productivity and collaboration.
 
@@ -252,18 +252,24 @@ Diigo is a web annotation and bookmarking tool that allows users to highlight te
 Evernote is a popular note-taking app that also allows users to highlight text on web pages. 
 
 ### Pro 
-Evernote is highly customizable and can be used for a wide range of tasks 
+• Evernote is highly customizable and can be used for a wide range of tasks 
 
 ### Con 
-It is primarily a note-taking app, so its highlighting features may not be as robust as some other tools on the market.
-## Why Does Glasp Stand Out?
-While there are several web highlighting tools available on the market, Glasp stands out for several reasons. 
+• It is primarily a note-taking app, so its highlighting features may not be as robust as some other tools on the market.
+## Why Does Glasp stand-out?
+While there are several web highlighting tools available on the market, Glasp stands out for several reasons:
+
+
 
 • Glasp's user-friendly interface makes it easy for anyone to use, regardless of their technical skill level. 
+
 • Glasp's collaborative features make easier for teamwork and group projects, setting it apart from other highlighting tools that are primarily created for individual use.
+
 • Glasp's search and organization features make it easy to find and manage highlights, further differentiating it from other tools on the market.
-## Conclusion
-Glasp is unique for its user-friendly interface, collaborative features, and powerful search and organization capabilities. The platform offers a range of features to make knowledge-sharing and collaboration easy. Users can create, store, and share their ideas, thoughts, and experiences in the form of notes, links, images, and videos. 
+
+## Conclusion 
+
+Glasp is unique for its user-friendly interface, collaborative features, search and organization capabilities. The platform offers a range of features to make knowledge-sharing and collaboration easy. Users can create, store, and share their ideas, thoughts, and experience in the same place. 
 
 The app's focus on knowledge-sharing and collaboration makes it a valuable tool for individuals, teams, and organizations that are looking to learn, innovate, and grow. 
 
